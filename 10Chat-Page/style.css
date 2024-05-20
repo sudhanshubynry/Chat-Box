@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+body{
+    margin: 0;
+    font-family: "Roboto";
+}
+
+*{
+    box-sizing: border-box;
+    max-width: 360px;
+    width: 100%;
+}
+
+.chart-cart > * {
+    padding: 1rem;
+    border-radius: 10px;
+    width: 100%;
+}
+h1{
+    background-color:#323f4b;
+    color: #ffffff;
+    text-align: center;
+    margin: auto;
+}
+.p1{
+    background-color: #47a3f3;
+    color: #ffffff;
+    text-align: right;
+}
+
+.p2{
+    background-color: #52606d;
+    color: #ffffff;
+    text-align: left;
+}
+
+.p3{
+    background-color: #47a3f3;
+    color: #ffffff;
+    text-align: right;
+}
+.p4{
+    background-color: #323f4b;
+    color: #ffffff;
+    text-align: left;
+}
+
+.p5{
+    background-color: #47a3f3;
+    color: #ffffff;
+    text-align: right;
+}
+.p6{
+    background-color: #323f4b;
+    color: #ffffff;
+    text-align: left;
+}
+.p7{
+    background-color: #47a3f3;
+    color: #ffffff;
+    text-align: right;
+}
+.chart-cart{
+    /* display: flex; */
+    /* flex-direction: column; */
+    padding: 1rem;
+}
+.card-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    /* min-height: 100vh; */
+    /* height: 100%; */
+    /* padding: 2rem; */
+}
